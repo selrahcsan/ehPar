@@ -21,7 +21,7 @@ python main.py
 
 - **eh_par(numero):** Determina se um número dado é par ou ímpar.
 - Argumentos:
-  -- **numero (int):** O número de entrada.
+  - **numero (int):** O número de entrada.
 
 - Retorno:
-    -- **str**: 'par' se o número for par, 'ímpar' se o número for ímpar.
+  - **str**: 'par' se o número for par, 'ímpar' se o número for ímpar.

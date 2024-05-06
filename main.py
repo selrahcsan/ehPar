@@ -6,7 +6,7 @@ def eh_par(numero):
         numero (int): O número de entrada.
 
     Returns:
-        str: 'par' se o número for par, 'ímpar' se o número for ímpar.
+        eh_par: 'par' se o número for par, 'ímpar' se o número for ímpar.
     """
     resultado = 'par' if numero % 2 == 0 else 'ímpar'
     return resultado
